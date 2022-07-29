@@ -1,3 +1,5 @@
+Connected Firebase and added hooks for disney+ login and frontend done.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
